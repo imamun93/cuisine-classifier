@@ -4,7 +4,7 @@
 ## Motivation
 
 
-We wanted to see if there was a way to classify different recipes’ cuisine types by region, just by taking in a list of ingredients.
+[Jaime](https://github.com/softserveslayer/) and I wanted to see if there was a way to classify different recipes’ cuisine types by region, just by taking in a list of ingredients.
 Our goal was to create a model in which by inputting ingredients in a function, it will give an output of which possible region the ingredients belong to.
 Companies such as Yelp, GrubHub and Seamless can use this type of model to help classify food based on ingredients or dish name.
 
